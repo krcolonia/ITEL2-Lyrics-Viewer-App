@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lyrics Viewer App</string>
+    <string name="main_menu_title">Lyrics Viewer by Kurt Colonia</string>
+
+    <string name="song1_title">ERASERHEADS - WITH A SMILE</string>
+    <string name="song2_title">RIVERMAYA - ELESI</string>
+    <string name="song3_title">THE WHO - BABA O\'RILEY</string>
+    <string name="song4_title">A-HA - TAKE ON ME</string>
+    <string name="song5_title">GUNS N\' ROSES - NOVEMBER RAIN</string>
+
+    <string name="returnToMenu_title">Return to Main Menu</string>
+
+    <string name="placehold_songName">[ SONG NAME ]</string>
+    <string name="placehold_songLyrics">[ Song Lyrics ]</string>
+</resources>
